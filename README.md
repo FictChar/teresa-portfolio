@@ -132,8 +132,8 @@ Through this project, I'm developing my understanding of:
 I'm interested in junior software development opportunities and roles that combine technology, problem-solving, quality assurance and user experience.
 
 - **GitHub:** [FictChar](https://github.com/FictChar)
-- **LinkedIn:** [LinkedIn] (www.linkedin.com/in/teresa-mayoral-2b059148)
-- **Portfolio:** [Add your deployed website URL]
+- **LinkedIn:** [LinkedIn] (https://linkedin.com/in/teresa-mayoral-2b059148)
+- **Portfolio:** [Netlify] (https://6add0d13d8737e64cee4005a--teresamportfolio.netlify.app)
 
 ---
 
