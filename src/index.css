@@ -1,0 +1,8 @@
+html {
+  scroll-padding-top: 20px;
+}
+
+::selection {
+  background: #d7e6d8;
+  color: #20251f;
+}
